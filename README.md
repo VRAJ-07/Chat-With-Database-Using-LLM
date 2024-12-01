@@ -1,4 +1,4 @@
-# SQL Chatbot Using LLM - LangChain and Hugging Face
+# Chat with Database Using LLM - LangChain and Hugging Face
 
 This project is a **SQL Chatbot** that uses **LangChain**, **Hugging Face Transformers**, **SQLAlchemy**, and **Streamlit** to allow users to ask natural language questions about a SQL database. The chatbot converts user queries into SQL statements, retrieves data, and responds in natural language, making database interaction intuitive and user-friendly.
 
@@ -31,7 +31,7 @@ This project is a **SQL Chatbot** that uses **LangChain**, **Hugging Face Transf
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/VRAJ-07/SQL-Chatbot-Using-LLM.git
+   git clone https://github.com/VRAJ-07/Chat-With-Database-Using-LLM.git
    cd SQL-Chatbot-Using-LLM
    ```
 
